@@ -5,11 +5,8 @@ const aboutMe =
 <br></br>
 <br></br>
 
-<img class="img1" src="https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/186297485_1104822086706409_5390037232218721306_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=zeJbZoCWOC0AX8AqIMQ&_nc_oc=AQnYYbwCkUMxhTdksfqF0Ipib-Lb9Jgsrb5bM9DXSzOxLx0s7Jdqe8KpAG8qM2hpgTUPB4bfj36AeQyIqahtchvb&_nc_ht=scontent-atl3-2.xx&oh=db994c233977552f13e1fc64e5ec03a9&oe=60D37FBC"></img>
+<img class="img1" src="https://lh3.googleusercontent.com/proxy/51R2PJjpOPVPVaQqF9AwQRcMvwbWlMTuvNt6HlBnSYGHns6igl6CkCRabqVfcuL5E35l7IUXj5E2ozQxvmPg4QgNoPn9GaxxvjYx6n0xFUmqan9g7ZDryuDixyGciZ8NEg"></img>
 
-
-<br></br>
-<br></br>
 <br></br>
 <br></br>
 
