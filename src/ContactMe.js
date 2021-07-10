@@ -5,7 +5,7 @@ const contactMe =
 
 <header></header>
 
-<h1>To reach out about scedue availability and price quotes, 
+<h1>To reach out about our schedule availability and price quotes, 
     or contact us via email/phone:</h1>
 
 <img class="email" src="https://images.indianexpress.com/2020/10/Gmail-new-logo.jpg"></img>

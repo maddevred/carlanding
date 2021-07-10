@@ -5,17 +5,17 @@ const skills =
 
 <img class="pic1" src="https://cdn.jdpower.com/what-is-car-detailing-unsplash.jpg"></img>    
 
-<img class="linux" src=""></img>
+<img class="pic2" src="https://www.chicagotribune.com/resizer/CPAFZlcHnlTJPb_WSpOLypSyQOU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YSEHQJSQQGTYLRVNSVKOFG5MAE.jpg"></img>
 
-<img class="node" src=""></img>
+<img class="pic3" src="https://di-uploads-pod6.dealerinspire.com/siddillonautogroup/uploads/2019/04/Interior-Car-Detailing_155243868.jpg"></img>
 
 <br></br>
 
-<img class="python" src=""></img>
+<img class="pic4" src="https://cardetailing.ca/wp-content/uploads/2020/06/services-01.jpg"></img>
 
-<img class="django" src=""></img>
+<img class="pic5" src="https://www.detailxperts.net/wp-content/uploads/2017/07/Exterior-Car-Detailing-Everything-You-Need-to-Know.jpg"></img>
 
-<img class="sequelize" src=""></img>
+<img class="pic6" src="https://s25180.pcdn.co/wp-content/uploads/2018/08/iStock-543601188.jpg"></img>
 
 <br></br>
 <p1>"They did a wonderful job detailing my car. My car feels like new again. I certainly will be using ECleanz again, and I highly recommend you give them a shot."</p1>
