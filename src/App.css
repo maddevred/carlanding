@@ -6,7 +6,7 @@
   --off-white: #fafafa;
 }
 .nav {
-  background-color: lightblue;
+  background-color: yellow;
   position: sticky;
   top: 0px;
   width: 100%;
@@ -50,7 +50,7 @@
 }
 
 .section-dark {
-  background: pink;
+  background: lightgreen;
   color: white;
 }
 
@@ -89,6 +89,24 @@ h3 {
 
 p {
   font-size: 20px;
+}
+
+.pic7{
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.pic8{
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.pic9{
+  height: 100px;
+  width: 100px;
+  padding: 1em;
 }
 
 .pic4{

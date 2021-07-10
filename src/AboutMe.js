@@ -9,8 +9,11 @@ const aboutMe =
 
 <br></br>
 <br></br>
+<br></br>
+<br></br>
 
 <h1>E CLEANZ</h1> 
+<br></br>
 <p> Specializing in adaptive, polished, and prompt professional detailing services.</p>
 
 <script>
