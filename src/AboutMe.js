@@ -5,7 +5,7 @@ const aboutMe =
 <br></br>
 <br></br>
 
-<img class="img1" src="https://lh3.googleusercontent.com/proxy/51R2PJjpOPVPVaQqF9AwQRcMvwbWlMTuvNt6HlBnSYGHns6igl6CkCRabqVfcuL5E35l7IUXj5E2ozQxvmPg4QgNoPn9GaxxvjYx6n0xFUmqan9g7ZDryuDixyGciZ8NEg"></img>
+<img class="img1" src="https://canadiangearhead.com/wp-content/uploads/2020/08/IMG_1045.jpg"></img>
 
 <br></br>
 <br></br>
